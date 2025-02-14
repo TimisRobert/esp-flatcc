@@ -1,0 +1,13 @@
+dependencies:
+  idf:
+    version: '>=5.0'
+description: FlatBuffers Compiler and Library in C for C
+files:
+  exclude:
+  - docs/**/*
+  - docs
+  - test/**/*
+  - test
+url: https://github.com/fedepell/esp-flatcc
+version: 0.6.1
+license: Apache-2.0
